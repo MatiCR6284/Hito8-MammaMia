@@ -1,0 +1,17 @@
+.header-container {
+    background: url('/img/Header.jpg') no-repeat center center/cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+  
+  .overlay {
+    background: rgba(0, 0, 0, 0.5); /* Oscurece la imagen para mejor visibilidad del texto */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
